@@ -1,0 +1,268 @@
+11:04:07.693: CPU Name: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+11:04:07.693: CPU Speed: 3600MHz
+11:04:07.693: Physical Cores: 8, Logical Cores: 8
+11:04:07.693: Physical Memory: 32683MB Total, 24684MB Free
+11:04:07.693: Windows Version: 10.0 Build 19045 (release: 2009; revision: 3570; 64-bit)
+11:04:07.693: Running as administrator: true
+11:04:07.693: Aero is Enabled (Aero is always on for windows 8 and above)
+11:04:07.693: Windows 10 Gaming Features:
+11:04:07.693: 	Game Bar: Off
+11:04:07.693: 	Game DVR: Off
+11:04:07.694: 	Game DVR Background Recording: Off
+11:04:07.694: 	Game Mode: Off
+11:04:07.694: 	Hardware GPU Scheduler: On
+11:04:07.697: Sec. Software Status:
+11:04:07.698: 	Malwarebytes: enabled (AV)
+11:04:07.698: 	Microsoft Defender Antivirus: disabled (AV)
+11:04:07.698: 	Windows Firewall: enabled (FW)
+11:04:07.699: Current Date/Time: 2023-11-12, 11:04:07
+11:04:07.699: Browser Hardware Acceleration: true
+11:04:07.699: Hide OBS windows from screen capture: false
+11:04:07.699: Qt Version: 5.15.2 (runtime), 5.15.2 (compiled)
+11:04:07.699: Portable mode: false
+11:04:07.971: OBS 27.2.4 (64-bit, windows)
+11:04:07.971: ---------------------------------
+11:04:07.972: ---------------------------------
+11:04:07.973: audio settings reset:
+11:04:07.973: 	samples per sec: 48000
+11:04:07.973: 	speakers:        2
+11:04:07.976: ---------------------------------
+11:04:07.976: Initializing D3D11...
+11:04:07.976: Available Video Adapters: 
+11:04:07.979: 	Adapter 0: NVIDIA GeForce RTX 2070
+11:04:07.979: 	  Dedicated VRAM: 4113563648
+11:04:07.979: 	  Shared VRAM:    4250480640
+11:04:07.979: 	  PCI ID:         10de:1f02
+11:04:07.980: 	  Driver Version: 31.0.15.3734
+11:04:07.980: 	  output 0:
+11:04:07.980: 	    name=27GL850
+11:04:07.980: 	    pos={0, 0}
+11:04:07.980: 	    size={2560, 1440}
+11:04:07.980: 	    attached=true
+11:04:07.980: 	    refresh=144
+11:04:07.980: 	    space=RGB_FULL_G22_NONE_P709
+11:04:07.980: 	    sdr_white_nits=80
+11:04:07.980: 	    nit_range=[min=0.098400, max=400.000000, max_full_frame=343.748291]
+11:04:07.980: 	  output 1:
+11:04:07.980: 	    name=VA2246 Series
+11:04:07.980: 	    pos={-1080, -232}
+11:04:07.980: 	    size={1080, 1920}
+11:04:07.980: 	    attached=true
+11:04:07.980: 	    refresh=60
+11:04:07.980: 	    space=RGB_FULL_G22_NONE_P709
+11:04:07.980: 	    sdr_white_nits=80
+11:04:07.980: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+11:04:07.985: Loading up D3D11 on adapter NVIDIA GeForce RTX 2070 (0)
+11:04:08.139: D3D11 loaded successfully, feature level used: b000
+11:04:08.139: DXGI increase maximum frame latency success
+11:04:08.140: D3D11 GPU priority setup success
+11:04:08.565: ---------------------------------
+11:04:08.565: video settings reset:
+11:04:08.565: 	base resolution:   2560x1440
+11:04:08.565: 	output resolution: 1920x1080
+11:04:08.565: 	downscale filter:  Lanczos
+11:04:08.565: 	fps:               30/1
+11:04:08.565: 	format:            NV12
+11:04:08.565: 	YUV mode:          sRGB/Partial
+11:04:08.565: NV12 texture support enabled
+11:04:08.566: Audio monitoring device:
+11:04:08.566: 	name: Default
+11:04:08.566: 	id: default
+11:04:08.566: ---------------------------------
+11:04:08.571: No AJA devices found, skipping loading AJA UI plugin
+11:04:08.571: Failed to initialize module 'aja-output-ui.dll'
+11:04:08.574: No AJA devices found, skipping loading AJA plugin
+11:04:08.574: Failed to initialize module 'aja.dll'
+11:04:08.574: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+11:04:08.580: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+11:04:08.582: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+11:04:08.584: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+11:04:08.626: [AMF] Unable to load 'amfrt64.dll', error code 126.
+11:04:08.628: [AMF] AMF Test failed due to one or more errors.
+11:04:08.628: Failed to initialize module 'enc-amf.dll'
+11:04:08.645: LoadLibrary failed for '../../obs-plugins/64bit/input-overlay.dll': The specified module could not be found.
+11:04:08.645:  (126)
+11:04:08.645: Module '../../obs-plugins/64bit/input-overlay.dll' not loaded
+11:04:08.645: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+11:04:08.646: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+11:04:08.646: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+11:04:08.666: [obs-browser]: Version 2.17.13
+11:04:08.666: [obs-browser]: CEF Version 95.0.0-MediaHandler.2467+g8092a57+chromium-95.0.4638.69
+11:04:08.676: NVENC supported
+11:04:08.678: [noise suppress]: NVIDIA RTX denoiser disabled, redistributable not found
+11:04:08.958: obs-streamelements-bootstrap: trying to load Qt5 flavor of a plugin for OBS version 27.2.4
+11:04:08.962: obs-streamelements-bootstrap: loaded module: D:\Program Files (x86)\obs-studio\obs-plugins\64bit\obs-streamelements-core
+11:04:08.963: [obs-streamelements-core]: Version unknown
+11:04:08.963: obs-streamelements-bootstrap: initialized: D:\Program Files (x86)\obs-studio\obs-plugins\64bit\obs-streamelements-core
+11:04:08.965: obs-streamelements-bootstrap: trying to load Qt5 flavor of a plugin for OBS version 27.2.4
+11:04:08.966: obs-streamelements-bootstrap: loaded module: D:\Program Files (x86)\obs-studio\obs-plugins\64bit\obs-streamelements
+11:04:08.966: obs-streamelements: initializing
+11:04:08.970: obs-streamelements: checking for updates
+11:04:08.970: obs-streamelements: ShowStatusBarMessage: Checking for updates...
+11:04:08.970: obs-streamelements: context->manifestFilePath: C:\Users\rthom\AppData\Roaming\obs-studio/plugin_config/obs-streamelements/obs-streamelements.manifest
+11:04:08.970: obs-streamelements: config_folder_path: C:\Users\rthom\AppData\Roaming\obs-studio/plugin_config/obs-streamelements/
+11:04:08.971: obs-streamelements: creating signal handlers
+11:04:08.971: obs-streamelements: connecting signal handlers
+11:04:08.971: obs-streamelements: initialized
+11:04:08.971: obs-streamelements-bootstrap: initialized: D:\Program Files (x86)\obs-studio\obs-plugins\64bit\obs-streamelements
+11:04:08.985: Skipping module '../../obs-plugins/64bit/SDL2.dll', not an OBS plugin
+11:04:08.988: [StreamFX] Loading Version 0.11.1.0-g81a96998
+11:04:09.045: [StreamFX] <gfx::opengl> Version 0.0 initialized.
+11:04:09.052: [StreamFX] <nvidia::cuda::cuda> Driver reported CUDA version: 12.2.0
+11:04:09.140: [StreamFX] <nvidia::cuda::context> Initialized CUDA on device 'NVIDIA GeForce RTX 2070' (2af72665-f918-9e10-d017-69255c87b7c3, 000127c8, 1).
+11:04:09.145: [StreamFX] <nvidia::cv::cv> No supported NVIDIA SDK is installed to provide 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::autoframing> Failed to make NVIDIA providers available due to error: Failed to load 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::autoframing> All supported providers failed to initialize, disabling effect.
+11:04:09.145: [StreamFX] <nvidia::cv::cv> No supported NVIDIA SDK is installed to provide 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::video_denoising> Failed to make NVIDIA providers available due to error: Failed to load 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::video_denoising> All supported providers failed to initialize, disabling effect.
+11:04:09.145: [StreamFX] <nvidia::cv::cv> No supported NVIDIA SDK is installed to provide 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::video_superresolution> Failed to make NVIDIA Super-Resolution available due to error: Failed to load 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::video_superresolution> All supported Super-Resolution providers failed to initialize, disabling effect.
+11:04:09.145: [StreamFX] <nvidia::cv::cv> No supported NVIDIA SDK is installed to provide 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::virtual_greenscreen> Failed to make NVIDIA Greenscreen available due to error: Failed to load 'NVCVImage.dll'.
+11:04:09.145: [StreamFX] <filter::virtual_greenscreen> All supported Virtual Greenscreen providers failed to initialize, disabling effect.
+11:04:09.145: [StreamFX] Loaded Version 0.11.1.0-g81a96998
+11:04:09.173: [vlc-video]: Couldn't find VLC installation, VLC video source disabled
+11:04:09.175: Failed to load 'en-US' text for module: 'win-capture-audio.dll'
+11:04:09.175: [win-capture-audio] Version 2.2.3 (74323e6)
+11:04:09.187: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:04:09.188: No blackmagic support
+11:04:09.200: ---------------------------------
+11:04:09.200:   Loaded Modules:
+11:04:09.200:     win-wasapi.dll
+11:04:09.200:     win-mf.dll
+11:04:09.200:     win-dshow.dll
+11:04:09.200:     win-decklink.dll
+11:04:09.200:     win-capture.dll
+11:04:09.200:     win-capture-audio.dll
+11:04:09.200:     vlc-video.dll
+11:04:09.200:     text-freetype2.dll
+11:04:09.200:     StreamFX.dll
+11:04:09.200:     rtmp-services.dll
+11:04:09.200:     obs-x264.dll
+11:04:09.200:     obs-vst.dll
+11:04:09.200:     obs-transitions.dll
+11:04:09.200:     obs-text.dll
+11:04:09.200:     obs-streamelements.dll
+11:04:09.200:     obs-streamelements-core.dll
+11:04:09.200:     obs-qsv11.dll
+11:04:09.200:     obs-outputs.dll
+11:04:09.200:     obs-filters.dll
+11:04:09.200:     obs-ffmpeg.dll
+11:04:09.200:     obs-browser.dll
+11:04:09.200:     logi_obs_plugin_x64.dll
+11:04:09.200:     image-source.dll
+11:04:09.200:     frontend-tools.dll
+11:04:09.200:     decklink-ouput-ui.dll
+11:04:09.200:     decklink-captions.dll
+11:04:09.200:     coreaudio-encoder.dll
+11:04:09.200: ---------------------------------
+11:04:09.585: ==== Startup complete ===============================================
+11:04:09.605: All scene data cleared
+11:04:09.605: ------------------------------------------------
+11:04:09.635: [Lua: UPDeck_2-1-19.lua] Error loading file: cannot open C:/Users/rthom/Downloads/UPDeck_2-1-19.lua: No such file or directory
+11:04:09.636: [win-wasapi: 'Mic/Aux'] update settings:
+11:04:09.636: 	device id: {0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}
+11:04:09.636: 	use device timing: 0
+11:04:09.637: [noise suppress: 'Noise Suppression'] NVAFX redist is not installed.
+11:04:09.637: [WASAPISource::TryInitialize]:[{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}] Failed to enumerate device: 80070490
+11:04:09.637: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:09.638: [Loaded global audio device]: 'Mic/Aux'
+11:04:09.638:     - filter: 'Noise Suppression' (noise_suppress_filter)
+11:04:09.638:     - filter: 'Noise Gate' (noise_gate_filter)
+11:04:09.638:     - filter: 'Gain' (gain_filter)
+11:04:09.638:     - filter: 'Compressor' (compressor_filter)
+11:04:09.638: [window-capture: 'Keyboard Overlay'] update settings:
+11:04:09.638: 	executable: NohBoard.exe
+11:04:09.638: 	method selected: Automatic
+11:04:09.638: 	method chosen: BitBlt
+11:04:09.638: 
+11:04:09.753: obs-streamelements: DownloadFileAsync: 200 ('https://cdn.streamelements.com/obs/dist/obs-streamelements/windows/latest/obs-streamelements.manifest?_nocache=20231112190408')
+11:04:10.438: [win-wasapi: 'Mic'] update settings:
+11:04:10.438: 	device id: {0.0.1.00000000}.{acc83756-b050-41f5-8050-927e2477e488}
+11:04:10.438: 	use device timing: 0
+11:04:10.439: [noise suppress: 'Noise Suppression'] NVAFX redist is not installed.
+11:04:10.439: [duplicator-monitor-capture: 'Display Capture'] update settings:
+11:04:10.439: 	display: 1 (2560x1440)
+11:04:10.439: 	cursor: true
+11:04:10.439: 	method: DXGI
+11:04:10.448: [win-wasapi: 'Spotify'] update settings:
+11:04:10.448: 	device id: default
+11:04:10.448: 	use device timing: 0
+11:04:10.468: Switched to scene 'Streaming'
+11:04:10.468: ------------------------------------------------
+11:04:10.468: Loaded scenes:
+11:04:10.468: - scene 'Starting Soon':
+11:04:10.468:     - source: 'Music' (audio_capture)
+11:04:10.468: - scene 'Streaming':
+11:04:10.468:     - source: 'Audio Sources' (scene)
+11:04:10.468:         - filter: 'Color Correction' (color_filter_v2)
+11:04:10.468:     - source: 'Game Capture' (game_capture)
+11:04:10.468:     - source: 'Display Capture' (monitor_capture)
+11:04:10.468:     - source: 'Webcam' (dshow_input)
+11:04:10.468:     - source: 'Keyboard Overlay' (window_capture)
+11:04:10.468:         - filter: 'Color Key' (color_key_filter_v2)
+11:04:10.468:     - source: 'Text (GDI+)' (text_gdiplus_v2)
+11:04:10.468: - scene 'Stream Ending':
+11:04:10.468:     - source: 'Spotify' (wasapi_input_capture)
+11:04:10.468: - scene 'Webcam '':
+11:04:10.468:     - source: 'Webcam' (dshow_input)
+11:04:10.468: - scene 'Audio Sources':
+11:04:10.468:     - source: 'Music' (audio_capture)
+11:04:10.468:     - source: 'Browser' (audio_capture)
+11:04:10.468:     - source: 'Discord' (audio_capture)
+11:04:10.468:     - source: 'Mic' (wasapi_input_capture)
+11:04:10.468:         - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+11:04:10.468:     - source: 'Game Audio' (audio_capture)
+11:04:10.468:     - filter: 'Color Correction' (color_filter_v2)
+11:04:10.468: ------------------------------------------------
+11:04:10.499: WASAPI: Device 'Microphone (2- AT2020USB+)' [48000 Hz] initialized
+11:04:10.499: WASAPI: Device 'Microphone (2- AT2020USB+)' [48000 Hz] initialized
+11:04:10.513: ---------------------------------
+11:04:10.513: [DShow Device: 'Webcam'] settings updated: 
+11:04:10.513: 	video device: HD Pro Webcam C920
+11:04:10.513: 	video path: \\?\usb#vid_046d&pid_08e5&mi_00#6&36179f&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+11:04:10.513: 	resolution: 640x480
+11:04:10.513: 	flip: 0
+11:04:10.513: 	fps: 30.00 (interval: 333333)
+11:04:10.513: 	format: YUY2
+11:04:10.513: 	buffering: disabled
+11:04:10.525: adding 85 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Browser)
+11:04:10.525: 
+11:04:10.907: [StreamFX] <updater> Automatic checks at launch are now enabled.
+11:04:11.003: obs-streamelements: detected obs-streamelements-core version: 20230704000081
+11:04:11.003: obs-streamelements: ShowStatusBarMessage: No software update available.
+11:04:11.199: QuickWriteFile: Failed to open file 'C:\Users\rthom\AppData\Roaming\obs-studio\updates\whatsnew.json': 5
+11:04:11.200: WhatsNewInfoThread::run: Could not write file 'C:\Users\rthom\AppData\Roaming\obs-studio\updates\whatsnew.json'
+11:04:12.637: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:15.638: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:18.638: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:21.638: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:24.639: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:27.640: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:30.641: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:33.641: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:36.642: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:39.642: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:42.642: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:45.644: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:48.643: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:51.645: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:54.644: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:04:57.646: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:00.645: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:03.646: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:06.646: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:09.647: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:12.647: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:15.648: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:18.648: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:21.648: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:24.649: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:27.650: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:30.651: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:33.651: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:36.652: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:39.653: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
+11:05:42.654: WASAPI: Device '{0.0.1.00000000}.{1347a162-144b-4508-937d-f61e5ba23a7d}' failed to start
